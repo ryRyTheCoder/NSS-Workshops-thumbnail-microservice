@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'thumbnail-microservice/**'
   workflow_dispatch:
 
 jobs:
